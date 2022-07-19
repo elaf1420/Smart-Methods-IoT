@@ -2,7 +2,8 @@
 Smart-Methods summer training program 2021 - (Internet of Things)
 Table of Contents
 - about
-- task 1 : chat bot 
+- Task 1 : chat bot 
+- Task 2 : ESP32 Alogorithm 
 ## About this repository  :
 This repository includes my work on the IoT track during my training program at Smart Methods Company
 ## task 1 : Programming voice chat systems ( chat bot ) 
