@@ -7,7 +7,7 @@ Table of Contents
 ## About this repository  :
 This repository includes my work on the IoT track during my training program at Smart Methods Company
 ## task 1 : Programming voice chat systems ( chat bot ) 
-In this task, the voice is heard in Arabic and is converted into written speech, the pictures show that.
+In this task, the audio is heard in the Arabic language and converted into written speech, and codes that work on this are attached to the files.
 ## task 2 : Wasdom ESP32 segment operation algorithm 
 1. Download the Aurdino IDE
 2. We add from the boards a link ESP32
