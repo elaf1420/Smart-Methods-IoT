@@ -18,7 +18,7 @@ In this task, the audio is heard in the Arabic language and converted into writt
 6. Play Hardwie Connected with Web API
 ## Task 3 : Web Serial 
 WebSerial is a Serial Monitor for ESP8266 & ESP32 Microcontrollers that can be accessed remotely via a web browser. Webpage is stored in program memory of the microcontroller.
-![](![image](https://user-images.githubusercontent.com/108503091/182034145-d238c456-f9c0-468e-9a04-551167f76b30.png)
+![](![web1](https://user-images.githubusercontent.com/108503091/182034345-ae01e214-9819-4685-9f50-79e31ac1c280.png)
 )
 # Upgrade to Pro
 Checkout the Pro version of the WebSerial library which comes with enhanced & snappy UI, along with 'clear' & 'lock scroll' buttons on the monitor interface. Best of all, it's only 10KB in size compared to 50KB of regular WebSerial.
