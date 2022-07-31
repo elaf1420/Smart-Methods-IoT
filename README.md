@@ -47,6 +47,14 @@ If you want to donate to the author then you can buy me a coffee
 # License
 WebSerial is licensed under General Public License v3 ( GPLv3 ).
 
+## Task 4 : move_arm_speech
+use javascript seral port and speech to move robot arm
+# command
+if you have servo you can test the script connect the servo to pin 8 and write this command in seral monitor
+> left@
+right@
+top@
+
 ## Implemented using :
 - HTML-CSS-JS
 ## Resources :
