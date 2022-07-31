@@ -36,7 +36,7 @@ For Windows: Download the Repository and extract the .zip in Documents>Arduino>L
 
 For Linux: Download the Repository and extract the .zip in Sketchbook>Libraries>{Place "WebSerial" folder Here}
 
-Include other library https://github.com/me-no-dev/ESPAsyncWebServer https://github.com/me-no-dev/AsyncTCP
+
 
 Manually through IDE
 Download the Repository, Go to Sketch>Include Library>Add .zip Library> Select the Downloaded .zip File.
