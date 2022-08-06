@@ -5,6 +5,8 @@ Table of Contents
 - Task 1 : chat bot 
 - Task 2 : ESP32 Algorithm 
 - Task 3 : Web Serial 
+- Task 4 : move_arm_speech
+- Task 5 : Programming control panels
 ## About this repository  :
 This repository includes my work on the IoT track during my training program at Smart Methods Company
 ## task 1 : Programming voice chat systems ( chat bot ) 
@@ -55,6 +57,15 @@ if you have servo you can test the script connect the servo to pin 8 and write t
 right@
 top@
 make sure the baudrate is 115200
+## Task 5 : Programming control panels
+# start 
+> php -S 127.0.0.1:8080
+# request
+> curl  http://localhost:8080/index.php/numbers/list\?limit\=20  
+# for post request
+> curl --location --request POST 'http://localhost:8080/index.php/numbers/post' \
+--form 'number="150"'
+
 ## Implemented using :
 - HTML-CSS-JS
 ## Resources :
